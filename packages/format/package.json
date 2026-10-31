@@ -1,6 +1,6 @@
 {
     "name": "@fast-csv/format",
-    "version": "5.0.7",
+    "version": "5.0.8",
     "description": "fast-csv formatting module",
     "keywords": [
         "csv",
@@ -37,6 +37,6 @@
         "url": "https://github.com/C2FO/fast-csv/issues"
     },
     "devDependencies": {
-        "@types/node": "24.12.3"
+        "@types/node": "24.19.2"
     }
 }
